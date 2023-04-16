@@ -1,1 +1,9 @@
-{"formattedJsonArray":"[\n    {\n        \"Start Date\": \"04-17-2023\",\n        \"Due Date\": \"04-24-2023\",\n        \"Name\": \"Colin Kidwell\",\n        \"Description\": \"This is gonna work!\",\n        \"Email\": \"colin@soar3d.io\"\n    }\n]"}
+[
+    {
+        "Start Date": "04-16-2023",
+        "Due Date": "04-16-2023",
+        "Name": "Colin Kidwell",
+        "Description": "THIS IS GOING TO WORK I KNOW IT",
+        "Email": "colin@soar3d.io"
+    }
+]
