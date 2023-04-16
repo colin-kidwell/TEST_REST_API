@@ -1,17 +1,15 @@
-[
-  {
-    "users": [
-      {
-        "id": 1,
-        "name": "Colin",
-        "age": 20,
-        "notes": "I'm the greatest!"
-      }
-    ],
-    "responses": [
-      {
-      reee
-      }
-    ]
-  }
-]  
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Colin",
+      "age": 20,
+      "notes": "I'm the greatest!"
+    }
+  ],
+  "responses": [
+    {
+    reee
+    }
+  ]
+}
